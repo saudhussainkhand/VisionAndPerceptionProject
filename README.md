@@ -4,7 +4,6 @@
 
 ### Project By:
  - Saud Hussain (1990559)
- - Raja Asim Fayyaz (1988888)
 
 ## Summary
   * Introduction
